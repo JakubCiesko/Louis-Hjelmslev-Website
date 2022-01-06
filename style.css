@@ -1,18 +1,6 @@
 body {
 	margin: 0;
 }
-.red {
-	background-color: red;	/* Header*/
-}
-.yellow {
-	background-color: greenyellow;/* Cover*/
-}
-.blue {
-	background-color: blue; /* Content*/
-}
-.cyan {
-	background-color: cyan; /* Footer*/
-}
 
 .nav{
 	display: flex;
@@ -94,7 +82,7 @@ a:hover{
 .grid{
 	display: grid;
 	gap: 10px;
-	grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+	grid-template-columns: repeat(auto-fill,minmax(320px,1fr));
 	background-image: url(background_1.jpg);
 	
 }
