@@ -10,7 +10,7 @@ function changeImageSource(index){
 	image_source.textContent = image_src_array[index][1];
 }
 var image_src_array = [
-["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0rT1Aic9Adp4XzgL4m5ncKqB8ZxquTG99w&usqp=CAU", "ZDROJ1"], 
+["https://www.researchgate.net/profile/Lungguh-Bangga/publication/327221055/figure/fig2/AS:677236092985354@1538477075788/Stratification-of-language-with-genre-and-register-as-higher-level-strata-adapted-from.png", "ZDROJ1"], 
 ["https://literariness.org/wp-content/uploads/2018/03/louis-hjemslev580.jpg", "ZDROJ2"],
 ["https://equivalentexchange.files.wordpress.com/2010/05/hjelmslev_table1.jpg","ZDROJ3"],
 ["https://linguistica4u.files.wordpress.com/2015/10/sfclassicshjelmslev1.jpg?w=640","ZDROJ4"]
